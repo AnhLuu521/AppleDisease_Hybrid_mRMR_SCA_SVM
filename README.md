@@ -59,7 +59,7 @@ AppleDisease_Hybrid_mRMR_SCA_SVM/
 │   │   ├── apple_scab/  black_rot/  cedar_apple_rust/  healthy/
 │   └── test/                                       # 1.943 ảnh kiểm tra
 │       └── apple_scab/  black_rot/  cedar_apple_rust/  healthy/
-├── SE183141-BÁO CÁO NGHIÊN CỨU.docx                # Báo cáo đồ án
+├── SE183141_LuuDucAnh_ReportMAI391.docx            # Báo cáo đồ án
 ├── figures/                                        # Biểu đồ kết quả
 │   ├── confusion_matrix.png
 │   └── feature_weights_sca.png
